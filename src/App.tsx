@@ -193,7 +193,7 @@ const App = observer(() => {
             color="white"
           >
             <Text fontSize="md" fontWeight="bold">
-              Chakra Theme Tool
+              Chakra Themer
             </Text>
             <Box flex={1} />
             <FormControl
